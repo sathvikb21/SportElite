@@ -1,0 +1,28 @@
+*{
+    padding: 0;
+    margin: 0;
+    border: 0;
+}
+
+.navbar{
+    display: inline;
+}
+
+.navbar .logo{
+   margin: 10px; 
+}
+
+.navbar .links{
+    margin: auto;
+}
+
+.navbar .links ul{
+    display: inline-block;
+    list-style-type: none;
+    position: absolute;
+    left: 50%;
+}
+
+.links ul li a{
+    text-decoration: none;
+}
